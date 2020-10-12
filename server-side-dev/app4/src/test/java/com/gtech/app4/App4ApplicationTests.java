@@ -1,10 +1,10 @@
-package com.gtech.app1;
+package com.gtech.app4;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class App1ApplicationTests {
+class App4ApplicationTests {
 
     @Test
     void contextLoads() {
